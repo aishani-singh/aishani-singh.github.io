@@ -19,7 +19,7 @@ function App() {
               <a href="https://www.github.com/aishanisingh">github</a>
               <a href="https://discord.com/users/644348690609471518">discord</a>
               <a href="https://aishanisingh.wixsite.com/myblog">personal blog</a>
-              <a href="https://twitter.com/shoyokatsuki">spotify</a>
+              <a href="https://twitter.com/shoyokatsuki">twitter</a>
             </Fade>
           <br></br>
           <Fade top>
