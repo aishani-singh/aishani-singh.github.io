@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton');
+
+body {
+  background-color: #f7f6f1;
+  /*background-image: url('./topography.svg');*/
+  font-family: 'Neuton', serif;
+  margin: 0 !important
+}
+
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 40px;
+  color: black;
+  padding-top: 150px;
+}
+
+p {
+  font-size: 19px;
+  margin: 0 !important;
+  padding-bottom: 30px;
+  
+}
+
+h4 {
+  margin: 0 !important;
+  padding-bottom: 15px;
+}
+
+a {
+  font-size: 19px;
+  padding: 3px;
+}
+
+a:link {
+  color: #b7a3ee;
+  background-color: transparent;
+}
+a:visited {
+  color: #b7a3ee;
+  background-color: transparent;
+}
+a:hover {
+  color: #8983e0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.links h4{
+  padding: 3px;
+  font-size: 23px;
+  text-decoration: underline;
+}
+
+
+.about h4{
+  padding: 3px;
+  font-size: 23px;
+  text-decoration: underline;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about p{
+  padding: 3px;
+  font-size: 18px;
+  text-align: center
+}
+
+.about a{
+  padding: 3px;
+  font-size: 18px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
