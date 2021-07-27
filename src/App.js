@@ -25,7 +25,7 @@ function App() {
           <div className="about">
             <h4><em>about me</em></h4>
             <p>hrkr '25</p>
-            <p>math + coding</p>
+            <p>stem + writing</p>
             <a href="mailto:aishani.singh@gmail.com">aishani.singh@gmail.com</a>
           </div>
           </Fade>
