@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aishani-singh/aishani-singh.github.io/static/css/main.63179a13.chunk.css",
+    "main.js": "/aishani-singh/aishani-singh.github.io/static/js/main.157a18ff.chunk.js",
+    "main.js.map": "/aishani-singh/aishani-singh.github.io/static/js/main.157a18ff.chunk.js.map",
+    "runtime-main.js": "/aishani-singh/aishani-singh.github.io/static/js/runtime-main.15f08612.js",
+    "runtime-main.js.map": "/aishani-singh/aishani-singh.github.io/static/js/runtime-main.15f08612.js.map",
+    "static/js/2.a4bcf5b8.chunk.js": "/aishani-singh/aishani-singh.github.io/static/js/2.a4bcf5b8.chunk.js",
+    "static/js/2.a4bcf5b8.chunk.js.map": "/aishani-singh/aishani-singh.github.io/static/js/2.a4bcf5b8.chunk.js.map",
+    "static/js/3.ecb37479.chunk.js": "/aishani-singh/aishani-singh.github.io/static/js/3.ecb37479.chunk.js",
+    "static/js/3.ecb37479.chunk.js.map": "/aishani-singh/aishani-singh.github.io/static/js/3.ecb37479.chunk.js.map",
+    "index.html": "/aishani-singh/aishani-singh.github.io/index.html",
+    "static/css/main.63179a13.chunk.css.map": "/aishani-singh/aishani-singh.github.io/static/css/main.63179a13.chunk.css.map",
+    "static/js/2.a4bcf5b8.chunk.js.LICENSE.txt": "/aishani-singh/aishani-singh.github.io/static/js/2.a4bcf5b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/aishani-singh/aishani-singh.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f08612.js",
+    "static/js/2.a4bcf5b8.chunk.js",
+    "static/css/main.63179a13.chunk.css",
+    "static/js/main.157a18ff.chunk.js"
+  ]
+}
